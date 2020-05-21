@@ -23,6 +23,7 @@ def keluar():
 
 def acak(b):
     w = 'ahtdzjc'
+
     d = ''
     for i in x:
         d += '!'+w[random.randint(0,len(w)-1)]+i

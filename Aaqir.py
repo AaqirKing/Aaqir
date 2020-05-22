@@ -53,7 +53,7 @@ logo = ======
 \033[1;97mAuthor  \033[1;93m: \033[1;92] Aaqir BALOUCH
 \033[1;96mInstagram \033[1;93m: \033[1;AAQIR BALOUCH 
 \033[1;96mFacebook  \033[1;93m: \033[1; AAQIR KING
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aaqir/King
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AaqirKing/Aaqir
 \033[1;91m======================================="""
 
 def tik():
@@ -77,7 +77,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAAQIR KING
 \033[1;96mInstagram \033[1;93m: \033[1;92mAAQIR BALOUCH
 \033[1;96mFacebook  \033[1;93m: \033[1;92m  arslankhan.khan.7399
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Aaqir/King
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AaqirKing/Aaqir
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
